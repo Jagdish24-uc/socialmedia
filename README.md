@@ -3,7 +3,16 @@
 Welcome to the Social Media Application repository. This application is a simple social media platform that allows users to create posts, like posts, and add comments.
  It's a platform where users can connect, share updates, and interact with each other. It's designed to be user-friendly and engaging, with features such as user authentication, real-time updates, and a polished user interface.
 
-![Screenshot] ![loginpage](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/1f39e180-97f5-4627-b739-5da45f8fdcea)
+![Screenshot] ![loginpage](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/1f39e180-97f5-4627-b739-5da45f8fdcea) ![registerpage](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/91305f6f-2d42-4804-8fea-61868c9cab46) ![registervalidation](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/10c50126-3cdb-4714-835b-68024e364bc5)![registrationsucceful](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/ba20dc3b-6472-420d-8f97-4df2bc21556e)![login successfull](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/4a3a7717-8e9d-4490-ab17-fda347b12452)![login failed](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/79eb9a3a-1697-4870-9488-f7df532d8be1)![before comment](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/a9fa199e-c68b-42bc-bb56-5e08c0df68ed)![comment button working](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/4221048e-cca1-48db-bbc9-92ddd68b5102)
+
+
+
+
+
+
+
+
+
 
 ## Key Features:
 
