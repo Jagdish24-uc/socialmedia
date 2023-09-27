@@ -2,7 +2,8 @@
 
 Welcome to the Social Media Application repository. This application is a simple social media platform that allows users to create posts, like posts, and add comments.
 
-![Screenshot](/screenshot.png)
+![Screenshot](/![image](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/42e5f5ce-7dc9-4ced-95b5-5c24ff159151)
+)
 
 ## Table of Contents
 
