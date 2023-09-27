@@ -3,9 +3,8 @@
 Welcome to the Social Media Application repository. This application is a simple social media platform that allows users to create posts, like posts, and add comments.
  It's a platform where users can connect, share updates, and interact with each other. It's designed to be user-friendly and engaging, with features such as user authentication, real-time updates, and a polished user interface.
 
-![Screenshot](/![image](![loginpage](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/f9fe7f8c-4051-4ab4-ad1f-b4782bbb9af2)
-)
-)
+![Screenshot] ![loginpage](https://github.com/Jagdish24-uc/socialmedia/assets/71270068/1f39e180-97f5-4627-b739-5da45f8fdcea)
+
 ## Key Features:
 
 1. User Authentication: The app has a robust user authentication system, ensuring that users can create accounts, log in securely, and protect their data.
