@@ -22,9 +22,8 @@ Welcome to the Social Media Application repository. This application is a simple
 
 3. Content Feed: Users can scroll through a content feed that displays posts from other users. They can like, comment, and share posts.
 
-4. Profile Management: Users have profiles where they can upload a profile picture, update their bio, and see their own posts.
 
-5. Navigation: The app includes easy navigation with a sidebar menu that allows users to access different sections, such as the main feed, their own posts, and messages.
+4. Navigation: The app includes easy navigation with a sidebar menu that allows users to access different sections, such as the main feed.
 
 ## Table of Contents
 
